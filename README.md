@@ -11,17 +11,17 @@
 
 
 **配置特性**
-1. 不包含ipv6，ddns
-2. 采用[luci-thme-design](https://github.com/0x676e67/luci-theme-design) 个人认为最好用最好看的Openwrt主题
+1. 采用[luci-thme-design](https://github.com/0x676e67/luci-theme-design) 个人认为最好用最好看的Openwrt主题
+2. 不包含ipv6，ddns(暂时用不上)
 3. 
 
 **支持设备**
-1. 360T7 7981 使用mosdns时注意不能在开启openclash的情况下重启mosdns，否则卡死重启
+1. QiHoo 360T7 
 2. ...
 
 **TIPS**
 1. 自用固件，不定期更新，测试完稳定**一个月**才会发布
-2. 配置随时变动
+2. 插件配置随时可能变动
 3. 建议使用wsl自建本地编译环境，摸索合适的配置，云端环境仅供后续更新使用
 4. 
 ---
