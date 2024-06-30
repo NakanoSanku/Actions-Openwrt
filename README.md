@@ -1,3 +1,5 @@
+✨ **[我的编译教程及经验](https://insider-hexo-blog.vercel.app/2024/06/30/Openwrt%E7%BC%96%E8%AF%91%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%85%A5%E5%9C%9F/)**
+
 ✨ **OPENWRT源码来自Lean的[lede](https://github.com/coolsnowwolf/lede)**
 
 ✨ **软件包来自[kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages)**
