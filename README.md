@@ -4,9 +4,16 @@
 
 ✨ **科学上网依赖来自[kenzok8/small-packages](https://github.com/kenzok8/small-package)**
 
+**参数说明**
+- 路由器LAN-IP：`192.168.1.1`
+- 初始账号：`root`
+- 初始密码：`password`
+
+
 **配置特性**
 1. 不包含ipv6，ddns
-2. 
+2. 采用[luci-thme-design](https://github.com/0x676e67/luci-theme-design) 个人认为最好用最好看的Openwrt主题
+3. 
 
 **支持设备**
 1. 360T7 7981 使用mosdns时注意不能在开启openclash的情况下重启mosdns，否则卡死重启
